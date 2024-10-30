@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    .carousel-caption h5 {
+      font-size: 1.2rem;
+    }
+    .carousel-caption p {
+      font-size: 0.9rem;
+    }
+  }
+  
+  
+@media (max-width: 576px) {
+    /* Adjust card padding, font sizes, or other elements for smaller devices */
+    .card-title {
+      font-size: 1.2rem;
+    }
+  }
